@@ -1,0 +1,11 @@
+{
+    "[rust]": {
+        "editor.formatOnSave": true
+    },
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off",
+        "editor.formatOnSave": true
+    }
+}
